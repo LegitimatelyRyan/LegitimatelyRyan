@@ -2,7 +2,7 @@
 
 I am an 18 year old with a drive to create new and interesting things, from the development of back-end systems to empowering robots! 
 
-🔭 I’m currently working at a @FirstRobotics affiliate team, helping to empower and create awesome autonomous vehicles!
+🔭 I’m currently working at a @FIRSTRobotics affiliate team, helping to empower and create awesome autonomous vehicles!
 
 Hope to see ya around!
 
