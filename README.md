@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I am an 18 year old with a drive to create new and interesting things, from the development of back-end of computer games to empowering robots! 
+I am an 18 year old university student with a drive to create new and interesting things, from the development of the back-end of common computer games to empowering autonomous robots! 
 
-🔭 I’m currently working at a @FIRSTRobotics affiliate team, helping to empower and create awesome autonomous vehicles!
+🔭 I’m an alumni of a @FIRSTRobotics affiliate team, in which I focused on aspects of autonomous and safety oriented robots!
+✨ I am currently majoring in Cybersecurity, although I often times work on projects involving other specialties!
 
 Hope to see ya around!
 
