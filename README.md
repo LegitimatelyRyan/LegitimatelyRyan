@@ -2,8 +2,7 @@
 
 I am an 18 year old university student with a drive to create new and interesting things, from the development of the back-end of common computer games to empowering autonomous robots! 
 
-🔭 I’m an alumni of a @FIRSTRobotics affiliate team, in which I focused on aspects of autonomous and safety oriented robots!
-✨ I am currently majoring in Cybersecurity, although I often times work on projects involving other specialties!
+🔭 I’m an alumni of a @FIRSTRobotics affiliate team, in which I focused on aspects of autonomous and safety oriented robots!\n✨ I am currently majoring in Cybersecurity, although I often times work on projects involving other specialties!
 
 Hope to see ya around!
 
