@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an 18 year old university student with a drive to create new and interesting things, from the development of the back-end of common computer games to empowering autonomous robots! 
+I am an 19 year old university student with a drive to create new and interesting things, from the development of the back-end of common computer games to empowering autonomous robots!
 
 🔭 I’m an alumni of a @FIRSTRobotics affiliate team, in which I focused on aspects of autonomous and safety oriented robots!
 
