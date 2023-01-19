@@ -9,6 +9,7 @@ I am an 19 year old university student with a drive to create new and interestin
 Hope to see ya around!
 
 ![LegitimatelyRyan's GitHub stats](https://github-readme-stats-gray-eight-32.vercel.app/api?username=LegitimatelyRyan&count_private=true&show_icons=true)
+
 ![Top Languages](https://github-readme-stats-gray-eight-32.vercel.app/api/top-langs/?username=LegitimatelyRyan&layout=compact,github-readme-stats&hide=css,javascript)
 
 <!--
